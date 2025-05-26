@@ -17,3 +17,4 @@ else:
     result = "Invalid input"
 
 print("Result:", result)
+
