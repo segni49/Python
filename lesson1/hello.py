@@ -1,3 +1,4 @@
+from math import *
 greeting = 'hello world'
 print(greeting)  
 
@@ -13,3 +14,7 @@ print('my name is \n good')
 
 phrase = "segniia b" 
 print (phrase +' is cool')  # s
+num = 4 
+print(floor(num))  # 4
+name2 = input('enter your name: ')  # waits for user input
+print("Hello, " + name2 + "!")  # greets the user with their name
