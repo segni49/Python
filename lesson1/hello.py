@@ -2,7 +2,7 @@ greeting = 'hello world'
 print(greeting)  
 
 character = 'john'
-age = 30;
+age = 30.538;
 
 print("Character:", character)
 print("Age:", age)
