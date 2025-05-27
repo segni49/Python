@@ -13,3 +13,5 @@ def play_game():
             break
         else:
             print("Incorrect guess, try again.")
+            
+play_game()           
